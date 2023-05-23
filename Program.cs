@@ -1,28 +1,5 @@
 ﻿namespace BeeboLevelPacker
 {
-    public class LevelMetadata
-    {
-        public int tileSize {get; set;}
-        public string songId {get; set;}
-
-        public LevelMetadata(int tileSize = 16, string songId = "bgm_placeholder")
-        {
-            this.tileSize = tileSize;
-            this.songId = songId;
-        }
-    }
-
-    public class Room
-    {
-        
-    }
-
-    public class Level
-    {
-        public LevelMetadata? metadata {get; set;}
-        public Room[]? rooms {get; set;}
-    }
-
     public class Program
     {
         static void Main(string[] args)
@@ -33,17 +10,6 @@
             Console.WriteLine("Welcome to the beeboLevelPacker tool");
             Console.WriteLine("------------------------------------");
 
-            string levelid = ReadArg("levelid", "1a");
-
-            int rooms = ReadArg("room count", 0);
-
-            Level level = new Level
-            {
-                metadata = new LevelMetadata()
-            };
-            level.rooms = new Room[rooms];
-
-            // string path = Environment.CurrentDirectory + "/output/lvl" + levelid + ".beebo";
             string path = Environment.CurrentDirectory;
 
             if(!Directory.Exists(path + "/output"))
@@ -56,6 +22,10 @@
                 Console.WriteLine("Creating missing input directory");
                 Directory.CreateDirectory(path + "/input");
             }
+
+            string levelid = ReadArg("levelid", "1a");
+
+            int rooms = ReadArg("room count", 0);
 
             string json = "{\n  \"metadata\": {},\n  \"rooms\": [";
 
