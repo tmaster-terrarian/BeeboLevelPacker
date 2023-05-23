@@ -12,6 +12,7 @@
 
             string path = Environment.CurrentDirectory;
 
+            Console.ForegroundColor = ConsoleColor.White;
             if(!Directory.Exists(path + "/output"))
             {
                 Console.WriteLine("Creating missing output directory");
