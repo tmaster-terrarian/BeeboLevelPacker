@@ -1,0 +1,5 @@
+C:\Users\dusty\Documents\GameMakerStudio2\beeboLevelPackerCMDVER\beeboLevelPacker\bin\Release\net6.0\publish\BeeboLevelPacker.exe
+C:\Users\dusty\Documents\GameMakerStudio2\beeboLevelPackerCMDVER\beeboLevelPacker\bin\Release\net6.0\publish\BeeboLevelPacker.dll
+C:\Users\dusty\Documents\GameMakerStudio2\beeboLevelPackerCMDVER\beeboLevelPacker\bin\Release\net6.0\publish\BeeboLevelPacker.deps.json
+C:\Users\dusty\Documents\GameMakerStudio2\beeboLevelPackerCMDVER\beeboLevelPacker\bin\Release\net6.0\publish\BeeboLevelPacker.runtimeconfig.json
+C:\Users\dusty\Documents\GameMakerStudio2\beeboLevelPackerCMDVER\beeboLevelPacker\bin\Release\net6.0\publish\BeeboLevelPacker.pdb

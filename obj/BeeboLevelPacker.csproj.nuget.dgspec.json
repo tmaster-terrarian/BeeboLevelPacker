@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dusty\\Documents\\GameMakerStudio2\\beeboLevelPackerCMDVER\\BeeboLevelPacker\\BeeboLevelPacker.csproj": {}
+    "C:\\Users\\dusty\\Documents\\GameMakerStudio2\\beeboLevelPackerCMDVER\\beeboLevelPacker\\BeeboLevelPacker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dusty\\Documents\\GameMakerStudio2\\beeboLevelPackerCMDVER\\BeeboLevelPacker\\BeeboLevelPacker.csproj": {
+    "C:\\Users\\dusty\\Documents\\GameMakerStudio2\\beeboLevelPackerCMDVER\\beeboLevelPacker\\BeeboLevelPacker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dusty\\Documents\\GameMakerStudio2\\beeboLevelPackerCMDVER\\BeeboLevelPacker\\BeeboLevelPacker.csproj",
+        "projectUniqueName": "C:\\Users\\dusty\\Documents\\GameMakerStudio2\\beeboLevelPackerCMDVER\\beeboLevelPacker\\BeeboLevelPacker.csproj",
         "projectName": "BeeboLevelPacker",
-        "projectPath": "C:\\Users\\dusty\\Documents\\GameMakerStudio2\\beeboLevelPackerCMDVER\\BeeboLevelPacker\\BeeboLevelPacker.csproj",
+        "projectPath": "C:\\Users\\dusty\\Documents\\GameMakerStudio2\\beeboLevelPackerCMDVER\\beeboLevelPacker\\BeeboLevelPacker.csproj",
         "packagesPath": "C:\\Users\\dusty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dusty\\Documents\\GameMakerStudio2\\beeboLevelPackerCMDVER\\BeeboLevelPacker\\obj\\",
+        "outputPath": "C:\\Users\\dusty\\Documents\\GameMakerStudio2\\beeboLevelPackerCMDVER\\beeboLevelPacker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dusty\\AppData\\Roaming\\NuGet\\NuGet.Config",

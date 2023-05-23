@@ -1,0 +1,15 @@
+C:\Users\dusty\Documents\GameMakerStudio2\beeboLevelPackerCMDVER\beeboLevelPacker\bin\Release\net6.0\BeeboLevelPacker.exe
+C:\Users\dusty\Documents\GameMakerStudio2\beeboLevelPackerCMDVER\beeboLevelPacker\bin\Release\net6.0\BeeboLevelPacker.deps.json
+C:\Users\dusty\Documents\GameMakerStudio2\beeboLevelPackerCMDVER\beeboLevelPacker\bin\Release\net6.0\BeeboLevelPacker.runtimeconfig.json
+C:\Users\dusty\Documents\GameMakerStudio2\beeboLevelPackerCMDVER\beeboLevelPacker\bin\Release\net6.0\BeeboLevelPacker.dll
+C:\Users\dusty\Documents\GameMakerStudio2\beeboLevelPackerCMDVER\beeboLevelPacker\bin\Release\net6.0\BeeboLevelPacker.pdb
+C:\Users\dusty\Documents\GameMakerStudio2\beeboLevelPackerCMDVER\beeboLevelPacker\obj\Release\net6.0\BeeboLevelPacker.csproj.AssemblyReference.cache
+C:\Users\dusty\Documents\GameMakerStudio2\beeboLevelPackerCMDVER\beeboLevelPacker\obj\Release\net6.0\BeeboLevelPacker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dusty\Documents\GameMakerStudio2\beeboLevelPackerCMDVER\beeboLevelPacker\obj\Release\net6.0\BeeboLevelPacker.AssemblyInfoInputs.cache
+C:\Users\dusty\Documents\GameMakerStudio2\beeboLevelPackerCMDVER\beeboLevelPacker\obj\Release\net6.0\BeeboLevelPacker.AssemblyInfo.cs
+C:\Users\dusty\Documents\GameMakerStudio2\beeboLevelPackerCMDVER\beeboLevelPacker\obj\Release\net6.0\BeeboLevelPacker.csproj.CoreCompileInputs.cache
+C:\Users\dusty\Documents\GameMakerStudio2\beeboLevelPackerCMDVER\beeboLevelPacker\obj\Release\net6.0\BeeboLevelPacker.dll
+C:\Users\dusty\Documents\GameMakerStudio2\beeboLevelPackerCMDVER\beeboLevelPacker\obj\Release\net6.0\refint\BeeboLevelPacker.dll
+C:\Users\dusty\Documents\GameMakerStudio2\beeboLevelPackerCMDVER\beeboLevelPacker\obj\Release\net6.0\BeeboLevelPacker.pdb
+C:\Users\dusty\Documents\GameMakerStudio2\beeboLevelPackerCMDVER\beeboLevelPacker\obj\Release\net6.0\BeeboLevelPacker.genruntimeconfig.cache
+C:\Users\dusty\Documents\GameMakerStudio2\beeboLevelPackerCMDVER\beeboLevelPacker\obj\Release\net6.0\ref\BeeboLevelPacker.dll
