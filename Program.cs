@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.Title = "beeboLevelPacker (cmd) v1.1";
+            Console.Title = "beeboLevelPacker cmd v1.2";
 
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Welcome to the beeboLevelPacker tool");
@@ -47,7 +47,8 @@
             }
             Console.WriteLine("Done.");
 
-            json += "  ]\n}";
+            if(rooms > 0) json += "  ";
+            json += "]\n}";
 
             File.WriteAllText(path + "/output/lvl" + levelid + ".beebo", json);
             Console.WriteLine("All tasks complete! Press any key to close this window.");
